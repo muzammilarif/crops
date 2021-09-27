@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+opencv-contrib-python
+opencv-python
+=======
+cv2
+>>>>>>> 4b31072 (Crop Analyst)
+streamlit
+numpy
+tensorflow
